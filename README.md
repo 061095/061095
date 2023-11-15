@@ -13,3 +13,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vitória-lopes-silva" target="blank"><img align=" center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin. com/in/vitória-lopes-silva" height="30" width="40" /></a> </p>
 
+"Seja corajoso, seja curioso, seja determinado, supere as adversidades. É possível"
